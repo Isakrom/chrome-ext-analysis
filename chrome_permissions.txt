@@ -1,63 +1,63 @@
-activeTab
-alarms
-background
-bookmarks
-browsingData
-certificateProvider
-clipboardRead
-clipboardWrite
-contentSettings
-contextMenus
-cookies
-debugger
-declarativeContent
-declarativeNetRequest
-declarativeWebRequest
-desktopCapture
-displaySource
-dns
-documentScan
-downloads
-enterprise.deviceAttributes
-enterprise.hardwarePlatform
-enterprise.platformKeys
-experimental
-fileBrowserHandler
-fileSystemProvider
-fontSettings
-gcm
-geolocation
-history
-identity
-idle
-idltest
-management
-nativeMessaging
-networking.config
-notifications
-pageCapture
-platformKeys
-power
-printerProvider
-privacy
-processes
-proxy
-sessions
+activeTab safe
+alarms safe
+background safe
+bookmarks safe
+browsingData safe
+certificateProvider safe
+clipboardRead safe
+clipboardWrite safe
+contentSettings unsafe
+contextMenus safe
+cookies unsafe
+debugger safe
+declarativeContent safe
+declarativeNetRequest safe
+declarativeWebRequest safe
+desktopCapture unsafe
+displaySource safe
+dns unsafe
+documentScan unsafe
+downloads unsafe
+enterprise.deviceAttributes unsafe
+enterprise.hardwarePlatform unsafe
+enterprise.platformKeys unsafe
+experimental safe
+fileBrowserHandler safe
+fileSystemProvider safe
+fontSettings unsafe
+gcm safe
+geolocation safe
+history unsafe
+identity unsafe
+idle safe
+idltest safe
+management safe
+nativeMessaging safe
+networking.config unsafe
+notifications safe
+pageCapture safe
+platformKeys unsafe
+power unsafe
+printerProvider safe
+privacy unsafe
+processes unsafe
+proxy unsafe
+sessions safe
 signedInDevices
-storage
-system.cpu
-system.display
-system.memory
-system.storage
-tabCapture
-tabs
-tabs
-topSites
-tts
-ttsEngine
-unlimitedStorage
-vpnProvider
-wallpaper
-webNavigation
-webRequest
-webRequestBlocking
+storage unsafe
+system.cpu unsafe
+system.display unsafe
+system.memory unsafe
+system.storage unsafe
+tabCapture safe
+tabs safe
+tabs safe
+topSites safe
+tts safe
+ttsEngine safe
+unlimitedStorage unsafe
+vpnProvider unsafe
+wallpaper safe
+webNavigation unsafe
+webRequest unsafe
+webRequestBlocking unsafe
